@@ -1,0 +1,2 @@
+Prefix plugins/TopMatch/example
+Plugin TopMatch inputfile blastn.out outputfile .
