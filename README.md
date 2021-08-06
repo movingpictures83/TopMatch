@@ -3,6 +3,7 @@
 # Input: TXT
 # Output: DIR
 # Tested with: PluMA 1.1, Python 3.6
+# Dependencies: esearch/efetch 15.4
 
 PluMA plugin to parse BLAST output for top matches for a query,
 and then obtain the corresponding FASTA file containing the gene 
